@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @stardustgd
-- 👀 I’m interested in video games and learning new things.
-- 🌱 I’m currently learning x86 MASM Assembly
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# stardustgd
 
-<!---
-stardustgd/stardustgd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hello world
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stardustgd&hide=prs,stars&count_private=true&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardustgd&theme=dark&layout=compact" />
+</a>
